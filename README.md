@@ -5,9 +5,11 @@
 
 Je viens de terminer la formation de Développeur Web d'Openclassrooms, 
 et je suis maintenant à la recherche d'une entreprise, avec qui, je pourrait poursuivre
-ma formation en alternance de Développeur d'application - Python, a partir d'avril 2023   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+ma formation en alternance de Développeur d'application - Python, a partir d'avril 2023     *
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-##Technologies
+
+## Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +21,8 @@ ma formation en alternance de Développeur d'application - Python, a partir d'av
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-##Projet
+
+## Projet
 • [Kasa]() : Création d'une application web de location immobilière avec React  
 • [Kanap]() : Construction d'un site de e-commerce en Javascript    
 • [Ohmyfood]() : Site mobile first à partir d'une maquette avec animations CSS    
