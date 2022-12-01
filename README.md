@@ -1,4 +1,12 @@
-### Hi there 👋
+### Bonjour, je m'apelle Arthur 👋  
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arthur40480)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+
+Je viens de terminer la formation de Développeur Web d'Openclassrooms, 
+et je suis maintenant à la recherche d'une entreprise, avec qui, je pourrait poursuivre
+ma formation en alternance de Développeur d'application - Python, a partir d'avril 2023. ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
+
 
 <!--
 **Arthur40480/Arthur40480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
