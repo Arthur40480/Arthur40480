@@ -4,8 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-gibert-bb5103238/)
 
 Je viens de terminer la formation de Développeur Web d'Openclassrooms, 
-et je suis maintenant à la recherche d'une entreprise, avec qui, je pourrait poursuivre
-ma formation en alternance de Développeur d'application - Python, a partir d'avril 2023
+et je suis maintenant à la recherche d'une entreprise, avec qui, je pourrais poursuivre
+ma formation en alternance de Développeur d'application - Python, à partir d'avril 2023
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
@@ -23,7 +23,7 @@ ma formation en alternance de Développeur d'application - Python, a partir d'av
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-## Projet
+## Projets
 • [Kasa]() : Création d'une application web de location immobilière avec React  
 • [Kanap]() : Construction d'un site de e-commerce en Javascript    
 • [Ohmyfood]() : Site mobile first à partir d'une maquette avec animations CSS    
