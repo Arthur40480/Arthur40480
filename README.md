@@ -1,11 +1,12 @@
 ### Bonjour  👋  
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arthur40480)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurgibert)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/arthurgibert](https://www.linkedin.com/in/arthur-gibert-bb5103238/))
 
 Je viens de terminer la formation de Développeur Web d'Openclassrooms, 
 et je suis maintenant à la recherche d'une entreprise, avec qui, je pourrait poursuivre
-ma formation en alternance de Développeur d'application - Python, a partir d'avril 2023     *
+ma formation en alternance de Développeur d'application - Python, a partir d'avril 2023
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
