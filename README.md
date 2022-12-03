@@ -24,12 +24,12 @@ ma formation en alternance de Développeur d'application - Python, à partir d'a
 
 
 ## Projets
-• [Kasa]() : Création d'une application web de location immobilière avec React  
-• [Kanap]() : Construction d'un site de e-commerce en Javascript    
-• [Ohmyfood]() : Site mobile first à partir d'une maquette avec animations CSS    
-• [Booki]() : Intégration d'une maquette responsive en HTML & CSS     
-• [La Panthere]() : Optimisation SEO et accessibilité d'un site web existant      
-• [Hot Takes]() : Construction d'une API sécurisée pour un site d'avis gastronomique 
+• [Kasa](https://github.com/Arthur40480/Kasa) : Création d'une application web de location immobilière avec React  
+• [Kanap](https://github.com/Arthur40480/Kanap) : Construction d'un site de e-commerce en Javascript    
+• [Ohmyfood](https://github.com/Arthur40480/Ohmyfood) : Site mobile first à partir d'une maquette avec animations CSS    
+• [Booki](https://github.com/Arthur40480/Booki) : Intégration d'une maquette responsive en HTML & CSS     
+• [La Panthere](https://github.com/Arthur40480/La_Panthere) : Optimisation SEO et accessibilité d'un site web existant      
+• [Piiquante](https://github.com/Arthur40480/Piiquante) : Construction d'une API sécurisée pour un site d'avis gastronomique 
 
 <!--
 **Arthur40480/Arthur40480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
