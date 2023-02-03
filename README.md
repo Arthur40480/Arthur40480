@@ -30,7 +30,7 @@ ma formation en alternance de Développeur d'application - Python, à partir d'a
 • [Ohmyfood](https://github.com/Arthur40480/Ohmyfood) : Site mobile first à partir d'une maquette avec animations CSS    
 • [Booki](https://github.com/Arthur40480/Booki) : Intégration d'une maquette responsive en HTML & CSS     
 • [La Panthere](https://github.com/Arthur40480/La_Panthere) : Optimisation SEO et accessibilité d'un site web existant      
-• [Piiquante](https://github.com/Arthur40480/Piiquante) : Construction d'une API sécurisée pour un site d'avis gastronomique 
+• [Piiquante](https://github.com/Arthur40480/Piiquante) : Construction d'une API sécurisée pour un site d'avis gastronomique   
 • [Book to Scrape](https://github.com/Arthur40480/Books-To-Scrape) : Programmme de scrapping en python
 
 <!--
