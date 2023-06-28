@@ -5,7 +5,7 @@
 
 Je viens de terminer la formation de Développeur Web d'Openclassrooms, 
 et je suis maintenant à la recherche d'une entreprise, avec qui, je pourrais poursuivre
-ma formation en alternance de Développeur d'application - Python
+ma formation en alternance de Développeur d'application Python
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
